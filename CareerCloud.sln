@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.ADODataAccessLa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CareerCloudCore.UnitTests.Assignment2", "CareerCloudCore.UnitTests.Assignment2\CareerCloudCore.UnitTests.Assignment2.csproj", "{6B0C462B-2EE3-4510-AD05-EFE98EE23B00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloud.BusinessLogicLayer", "CareerCloud.BusinessLogicLayer\CareerCloud.BusinessLogicLayer.csproj", "{F3C23D6B-F837-48C4-9BD8-2A433BB47EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CareerCloudCore.UnitTests.Assignment3", "CareerCloudCore.UnitTests.Assignment3\CareerCloudCore.UnitTests.Assignment3.csproj", "{0D263D26-464E-46E6-B75C-AEC38F3785AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{6B0C462B-2EE3-4510-AD05-EFE98EE23B00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B0C462B-2EE3-4510-AD05-EFE98EE23B00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B0C462B-2EE3-4510-AD05-EFE98EE23B00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C23D6B-F837-48C4-9BD8-2A433BB47EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C23D6B-F837-48C4-9BD8-2A433BB47EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C23D6B-F837-48C4-9BD8-2A433BB47EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C23D6B-F837-48C4-9BD8-2A433BB47EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D263D26-464E-46E6-B75C-AEC38F3785AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D263D26-464E-46E6-B75C-AEC38F3785AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D263D26-464E-46E6-B75C-AEC38F3785AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D263D26-464E-46E6-B75C-AEC38F3785AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

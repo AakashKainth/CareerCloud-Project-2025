@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CareerCloud.Pocos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe9e7437c8714fd09d9d4c772f5f3a2f33204f47")]
 [assembly: System.Reflection.AssemblyProductAttribute("CareerCloud.Pocos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CareerCloud.Pocos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
